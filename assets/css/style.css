@@ -407,7 +407,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../images/1.jpg") top center;
+  background: url("../images/viber_image_2023-11-21_14-01-42-610.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -619,7 +619,7 @@ section {
 # Features
 --------------------------------------------------------------*/
 .features {
-  padding-top: 20px;
+  padding-top: 60px;
 }
 
 .features .icon-box {
